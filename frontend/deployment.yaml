@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: raj0pro/frontend:v1.0.13
+        image: raj0pro/frontend:v1.0.14
 
         ports:
         - containerPort: 3000
